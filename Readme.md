@@ -2,6 +2,8 @@
 
 * Студент: [Калинкина Инна](https://up.htmlacademy.ru/htmlcss-individual/2/user/2552529).
 * Наставник: `Неизвестно`.
+* Сайт [Мой проект Седона] (https://inna2304.github.io/2552529-sedona-2/)
+
 
 ---
 
