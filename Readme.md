@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2552529).
+* Студент: [Калинкина Инна](https://up.htmlacademy.ru/htmlcss-individual/2/user/2552529).
 * Наставник: `Неизвестно`.
 
 ---
